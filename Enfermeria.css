@@ -1,0 +1,40 @@
+.container4{
+   display: flex;
+    width: 20%;
+ 
+   
+    padding: 3px;
+    
+    
+}
+
+h1{
+    
+ font-family: algerian;    
+    color: brown;
+    
+    
+   
+}
+
+
+
+
+.navbar{
+    box-shadow: 2px 2px 5px #000;
+ 
+       background-color: #f2f2f2;
+}
+.logo{
+    width: 6%;
+}
+
+
+b{
+ color:black;
+    }
+.card{
+   margin: 40px; 
+    
+    
+}
